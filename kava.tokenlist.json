@@ -1,0 +1,160 @@
+{
+  "name": "Kava Testnet",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": ["kava", "defi"],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "axelar": {
+      "name": "Axelar",
+      "description": "Tokens that are bridged using axelar.network"
+    }
+  },
+  "timestamp": "2023-01-31T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WKAVA",
+      "name": "Wrapped Kava",
+      "address": "0x70C79B608aBBC502c2F61f38E04190fB407BefCF",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/usdc.svg",
+      "tags": ["axelar", "stablecoin"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 6,
+      "symbol": "aUSDC",
+      "name": "USD Coin",
+      "address": "0xAa03872057AD496Bd6f3eE85b85e1e4DABdb1a5d",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/usdc.svg",
+      "tags": ["axelar", "stablecoin"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "wAXL",
+      "name": "Axelar",
+      "address": "0xA3A2b6F3b34F513BA0084D504E8a6162bd7C7EE6",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/axl.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "axlWETH",
+      "name": "Wrapped ETH",
+      "address": "0x3F8a312113ED10833F27bbC1ee08A8cDB4df16B4",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/weth.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WMATIC",
+      "name": "Wrapped MATIC",
+      "address": "0x5e372F445C6afc91Aaca0d6C0Fa170d5f8F30f49",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/matic.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WAVAX",
+      "name": "Wraped AVAX",
+      "address": "0xf3280d7a127Bb743918040fB99108728388e3c9e",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/avax.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WFTM",
+      "name": "Wrapped FTM",
+      "address": "0xd7ba4DE2d9cDF1D34D0aE608F3725Aed1A32821E",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/ftm.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WBNB",
+      "name": "Wraped BNB",
+      "address": "0x500c333DC86813F930299a68B990F57D1ca6e243",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/bnb.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2221,
+      "decimals": 18,
+      "symbol": "WDEV",
+      "name": "Wraped DEV",
+      "address": "0xe9a3a0E5C9cFed51E1D60d57e10DeE4478415e52",
+      "logoURI": "https://raw.githubusercontent.com/axelarnetwork/axelar-docs/83d0f0123cd84f1e6490b73fa296dbade559e19c/public/images/assets/dev.svg",
+      "tags": ["axelar"]
+    },
+    {
+      "chainId": 2222,
+      "decimals": 6,
+      "symbol": "axlUSDC",
+      "name": "USD Coin",
+      "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "wAXL",
+      "name": "Axelar",
+      "address": "0x23ee2343B892b1BB63503a4FAbc840E0e2C6810f"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "axlDAI",
+      "name": "DAI",
+      "address": "0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "USDT",
+      "name": "USD Coin",
+      "address": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "ATOM",
+      "name": "ATOM",
+      "address": "0x06beE9E7238a331B68D83Df3B5B9B16d5DBa83ff"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "FRAX",
+      "name": "Frax",
+      "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "NGM",
+      "name": "e-Money",
+      "address": "0x54B1aa9386f36079fe4B39278c06eadaD457ac15"
+    },
+    {
+      "chainId": 2222,
+      "decimals": 18,
+      "symbol": "EEUR",
+      "name": "e-Money EUR",
+      "address": "0xEeD07F7ef719f69f7D0A50aF2f50bA2d959A3839"
+    }
+  ]
+}
